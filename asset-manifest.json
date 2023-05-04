@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mycahdt/Task_Tracker.git/static/css/main.b43af937.css",
+    "main.js": "/mycahdt/Task_Tracker.git/static/js/main.92c13a25.js",
+    "static/js/787.4ef7427d.chunk.js": "/mycahdt/Task_Tracker.git/static/js/787.4ef7427d.chunk.js",
+    "static/media/mySketch.jpg": "/mycahdt/Task_Tracker.git/static/media/mySketch.8c59405bf240f7394995.jpg",
+    "index.html": "/mycahdt/Task_Tracker.git/index.html",
+    "main.b43af937.css.map": "/mycahdt/Task_Tracker.git/static/css/main.b43af937.css.map",
+    "main.92c13a25.js.map": "/mycahdt/Task_Tracker.git/static/js/main.92c13a25.js.map",
+    "787.4ef7427d.chunk.js.map": "/mycahdt/Task_Tracker.git/static/js/787.4ef7427d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b43af937.css",
+    "static/js/main.92c13a25.js"
+  ]
+}
